@@ -1,4 +1,4 @@
-# 4. JavaScript in the Browser: DOM and Events
+# 04. JavaScript in the Browser: DOM and Events
 
 ## 📌 What is DOM and DOM Manipulation?
 The **Document Object Model (DOM)** is a programming interface that represents an HTML document as a structured tree of elements. JavaScript allows us to manipulate this structure dynamically.

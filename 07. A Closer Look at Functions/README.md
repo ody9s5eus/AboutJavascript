@@ -1,4 +1,4 @@
-# 7.  A Closer Look at Functions
+# 07.  A Closer Look at Functions
 
 tags: #JavaScript #Functions #ModernJS
 

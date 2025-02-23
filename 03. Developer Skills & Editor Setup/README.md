@@ -1,4 +1,4 @@
-# 3. Developer Skills & Editor Setup
+# 03. Developer Skills & Editor Setup
 
 tags: #JavaScript #DeveloperSkills #VSCode #Debugging  
 

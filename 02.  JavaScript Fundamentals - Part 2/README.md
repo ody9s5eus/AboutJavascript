@@ -1,4 +1,4 @@
-# 2.  JavaScript Fundamentals - Part 2
+# 02.  JavaScript Fundamentals - Part 2
 
 
 

@@ -1,4 +1,4 @@
-# 8. Working with Arrays
+# 08. Working with Arrays
 
 tags: #JavaScript #Arrays #ModernJS
 

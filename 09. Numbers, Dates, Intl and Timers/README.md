@@ -1,4 +1,4 @@
-# 9. Numbers, Dates, Intl and Timers
+# 09. Numbers, Dates, Intl and Timers
 
 tags: #JavaScript #Numbers #Dates #Intl #Timers
 

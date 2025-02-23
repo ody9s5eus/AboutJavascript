@@ -1,4 +1,4 @@
-# 5. How JavaScript Works Behind the Scenes
+# 05. How JavaScript Works Behind the Scenes
 
 ## 🚀 An High-Level Overview of JavaScript
 JavaScript is a **high-level, interpreted, and dynamically typed** language used primarily for web development. It is single-threaded, non-blocking, and supports asynchronous programming.

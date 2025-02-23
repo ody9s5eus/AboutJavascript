@@ -1,4 +1,4 @@
-# 1. JavaScript Fundamentals - Part 1
+# 01. JavaScript Fundamentals - Part 1
 
 
 

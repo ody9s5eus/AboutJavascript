@@ -1,4 +1,4 @@
-# 6. Data structures, Modern Operators and strings
+# 06. Data structures, Modern Operators and strings
 
 tags: #JavaScript #DataStructures #ModernJS
 
